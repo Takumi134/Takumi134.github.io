@@ -1,0 +1,85 @@
+body {
+    background-color: rgb(133, 123, 123);
+}
+
+
+#head {
+    text-align: center;
+    position: relative;
+   bottom: 300px;
+   right: 350px;
+   text-shadow: #FFFCA8 2px 2px 0px, #9C9C9C 4px 4px 0px, 0px -24px 7px rgba(206,166,76,0);
+}
+#head1 {
+    text-align: center;
+    position: relative;
+   bottom: 350px;
+   right: -400px;
+   font-size: 40px;
+   text-shadow: #FFFCA8 2px 2px 0px, #9C9C9C 4px 4px 0px, 0px -24px 7px rgba(206,166,76,0);
+}
+#head2 {
+    text-align: center;
+    position: relative;
+   bottom: 300px;
+   right: -500px;
+   font-size: 40px;
+   text-shadow: #FFFCA8 2px 2px 0px, #9C9C9C 4px 4px 0px, 0px -24px 7px rgba(206,166,76,0);
+}
+.logo {
+    position: relative;
+    top: 0;
+    background: url(head.png);
+    background-size: cover;
+    height: 350px;
+}
+
+.l1 {
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+}
+.l2 {
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+}
+.l3 {
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+}
+
+.text{
+    font-family: Georgia, serif;
+font-size: 20px;
+letter-spacing: 0.4px;
+word-spacing: 2.4px;
+color: #000000;
+font-weight: 600;
+text-decoration: none;
+font-style: italic;
+font-variant: normal;
+text-transform: uppercase;
+margin-top: -350px;
+
+}
+
+.hobby{
+    text-shadow: #474747 3px 5px 2px, 2px 2px 2px rgba(206,89,55,0);
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 40px;
+   
+}
+
+.links {
+    margin-top: -350px;
+}
+
+
+.photo {
+    
+    border-radius: 50%;
+    -webkit-box-shadow: 3px 5px 15px 5px #000000; 
+box-shadow: 3px 5px 15px 5px #000000;
+}
